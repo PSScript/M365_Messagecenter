@@ -1,0 +1,6 @@
+email;DisplayName_email;password;secret_link
+john.doe@example.com;John Doe;TempPass123!;https://portal.example.com/setup/abc123
+jane.smith@example.com;Jane Smith;SecureP@ss456;https://portal.example.com/setup/def456
+mike.wilson@example.com;Mike Wilson;MyP@ssw0rd789;https://portal.example.com/setup/ghi789
+sarah.johnson@example.com;Sarah Johnson;Pass123Word!;https://portal.example.com/setup/jkl012
+david.brown@example.com;David Brown;Str0ngP@ss!;https://portal.example.com/setup/mno345
